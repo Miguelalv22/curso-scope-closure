@@ -1,4 +1,4 @@
-const fruit = 'apple';  //declaracion y asignacion
+var fruit = 'apple';  //declaracion y asignacion
 function bestFruit() {
     console.log(`la mejor fruta es ${fruit}`);
 }
